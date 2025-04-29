@@ -1,0 +1,10 @@
+{
+    "mcpServers": {
+      "temperature": {
+        "command": "ds18b20",
+        "args": [],
+        "env": {
+        }
+      }
+    }
+}
