@@ -9,7 +9,7 @@ import (
 	"github.com/yryz/ds18b20"
 )
 
-//npx @modelcontextprotocol/inspector --config ./config.json --server ds18b20
+//npx @modelcontextprotocol/inspector --config ./config.json --server temperature
 
 func main() {
 	sensors, err := ds18b20.Sensors()
