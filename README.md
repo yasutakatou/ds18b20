@@ -1,5 +1,17 @@
 # ds18b20
 
+***
+
+元のリポジトリをForkし、MCP-Serverにして温度をAIに渡せるようにしてみました
+
+![image](https://github.com/user-attachments/assets/774ad106-d57c-499d-8110-f190e9ea5a08)
+
+![image](https://github.com/user-attachments/assets/5cbffd55-d41b-41e9-9bf2-9692f40d0870)
+
+![image](https://github.com/user-attachments/assets/f9ddbcfc-7ab3-4fd5-b4e5-3d233c7e4f50)
+
+***
+
 Get sensor data from ds18b20 connected to the Raspberry (GPIO w1 pin).
 
 
