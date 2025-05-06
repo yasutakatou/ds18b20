@@ -10,6 +10,8 @@ import (
 )
 
 //npx @modelcontextprotocol/inspector --config ./config.json --server temperature
+//現在温度を教えてください
+//現在温度は暑いでしょうか、寒いでしょうか。何月位の温度ですか？
 
 func main() {
 	sensors, err := ds18b20.Sensors()
